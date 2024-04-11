@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="about_booking_com">
+    <title>About Booking.com Application</title>
+    <taskbody>
+        <context>
+            <p>Booking.com is a one stop <b>online booking agency </b>or portal for travellers.
+                Booking.com offers wide range services to travellers like booking accommodations,
+                flights, car rentals, and airport taxis. Travellers can discover new attractions in
+                their destination city via Booking.com.</p>
+        </context>
+    </taskbody>
+</task>

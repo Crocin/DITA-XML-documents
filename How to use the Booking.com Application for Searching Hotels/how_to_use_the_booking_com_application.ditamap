@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>How To Use the Booking.com Application to Search a Hotel</title>
+    <topichead navtitle="What is the Booking.com Application?">
+        <topicref href="about_booking_com.dita"/>
+        <topicref href="what_is_a_online_booking_travel_agency.dita"/>
+    </topichead>
+    <topichead navtitle=" Installation and Account Set Up for the Booking.com Application">
+        <topicref href="steps_for_installation_of_the_booking_com_application.dita"/>
+        <topicref href="sign_in_to_the_booking_com_application.dita"/>
+    </topichead>
+    <topichead navtitle="Searching and Booking a Hotel on the Booking.com Application">
+        <topicref href="searching_a_hotel_on_the_booking_com_application.dita"/>
+    </topichead>
+</map>
